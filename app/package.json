@@ -1,5 +1,5 @@
 {
-  "name": "fiap-todo-api",
+  "name": "todo-api",
   "version": "1.0.0",
   "description": "Todo List API for demonstrating multistage CI/CD pipelines",
   "main": "src/server.js",
@@ -29,7 +29,7 @@
       }
     }
   },
-  "keywords": ["fiap", "cicd", "multistage", "todo", "api", "express"],
+  "keywords": ["cicd", "multistage", "todo", "api", "express"],
   "author": "FIAP Student",
   "license": "MIT",
   "dependencies": {
